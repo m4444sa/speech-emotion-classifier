@@ -8,3 +8,8 @@ data/Actor_*/
 # Models/checkpoints
 models/
 checkpoints/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+data/
+models//data.zip
